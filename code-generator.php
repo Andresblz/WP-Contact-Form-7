@@ -25,5 +25,5 @@ function custom_code_handler() {
         }
     }
   
-    return '<input type="hidden" name="rand_string" value="' . strtoupper($random_string) . '" />';
+    return '<input type="hidden" name="rand_code" value="' . strtoupper($random_string) . '" />';
 }
