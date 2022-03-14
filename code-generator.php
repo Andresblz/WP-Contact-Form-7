@@ -16,9 +16,9 @@ function custom_code_handler() {
     $random_string = $year1;
 
     for ($i = 0; $i < 8; $i++) {
-        if (i == 2) {
+        if ($i == 2) {
             $random_string .= $month;
-        } else if (i == 5) {
+        } else if ($i == 5) {
             $random_string .= $day;
         } else {
             $random_string .= $characters[wp_rand(0, strlen($characters))];
