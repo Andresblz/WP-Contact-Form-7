@@ -2,10 +2,10 @@
 This function generates a unique code of the style: YYXXMMXXDDXXDXX
 
 
--_XX - Random characters_
--_YY - last 2 digits of the year_
--_MM - current month_
--_DD - current day_
+- XX | Random characters
+- YY | Last 2 digits of the year
+- MM | Current month
+- DD | Current day
 
 
 The field will be hidden in the form.
@@ -15,8 +15,8 @@ The field will be hidden in the form.
 1. Open the folder wp-content > plugins > contact-form-7 > includes > functions.php
 
 2. If no php code is written, copy and paste the following code
-3. 
-4. In case you have written code, copy from add_action and paste at the end of functions.php
+
+3. In case you have written code, copy from add_action and paste at the end of functions.php
 
 
 ## HOW IT WORKS
