@@ -14,7 +14,7 @@ The field will be hidden in the form.
 ## INSTALLATION
 1. Open the folder wp-content > plugins > contact-form-7 > includes > functions.php
 
-2. If no php code is written, copy and paste the following code
+2. If no php code is written, copy and paste full code
 
 3. In case you have written code, copy from add_action and paste at the end of functions.php
 
