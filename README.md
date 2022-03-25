@@ -1,5 +1,5 @@
 # UNIQUE CODE GENERATOR - CONTACT FORM 7
-_This function generates a unique code of the style: YYXXXXMMXXDDXXDXX_
+_This function generates a unique code of the style: YYXXMMXXDDXXDXX_
 
 
 _XX - Random characters_
