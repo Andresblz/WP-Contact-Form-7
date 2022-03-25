@@ -1,5 +1,5 @@
 # UNIQUE CODE GENERATOR - CONTACT FORM 7
-_This function generates a unique code of the style: YYXXMMXXDDXXDXX_
+This function generates a unique code of the style: YYXXMMXXDDXXDXX
 
 
 _XX - Random characters_
@@ -11,16 +11,16 @@ _MM - current month_
 _DD - current day_
 
 
-_The field will be hidden in the form._
+The field will be hidden in the form.
 
 
 ## INSTALLATION
-_1. Open the folder wp-content > plugins > contact-form-7 > includes > functions.php_
+1. Open the folder wp-content > plugins > contact-form-7 > includes > functions.php
 
-_2. If no php code is written, copy and paste the following code_
-
-_3. In case you have written code, copy from add_action and paste at the end of functions.php_
+2. If no php code is written, copy and paste the following code
+3. 
+4. In case you have written code, copy from add_action and paste at the end of functions.php
 
 
 ## HOW IT WORKS
-_Add the field [coupon_code] to the CF7 form, when the user fills the form it will return the value through [rand_code]._
+Add the field [coupon_code] to the CF7 form, when the user fills the form it will return the value through [rand_code].
