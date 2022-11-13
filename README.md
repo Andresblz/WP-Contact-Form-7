@@ -21,3 +21,7 @@ The field will be hidden in the form.
 
 ## HOW IT WORKS
 Add the field [coupon_code] to the CF7 form, when the user fills the form it will return the value through [rand_code].
+
+---
+
+<a href="https://www.buymeacoffee.com/andr3kt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
